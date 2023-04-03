@@ -8,7 +8,8 @@ import io.restassured.specification.RequestSpecification;
 import org.apache.http.util.Asserts;
 import org.junit.Assert;
 
-public class Demo {
+public class
+Demo {
     public static void main(String[] args) {
         //d94eeef4d5635c3f1b28d29289abda90265b56a07abe9e2c91c93ef3fcc595ea
 
