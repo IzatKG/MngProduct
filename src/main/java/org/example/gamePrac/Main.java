@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello 1th practice");
 
+        System.out.println("Kutbolsun's work");
     }
 }
