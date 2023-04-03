@@ -19,6 +19,7 @@ public class Reverse {
         for (int i =s.length-1; i>=0;i--){
             reversed=reversed+s[i];
             System.out.println(reversed);
+            System.out.println("============================");
         }
     }
 
